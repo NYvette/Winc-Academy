@@ -1,7 +1,7 @@
 Country,1990,2005,2017,2021
 World,22674.120,30049.810,37077.400,37857.580
-World – International Aviation,258.941,422.777,543.381,
-World – International Shipping,371.804,572.169,677.248,
+World – International Aviation,258.941,422.777,543.381,0
+World – International Shipping,371.804,572.169,677.248,0
 Afghanistan,2.546,1.063,11.422,8.350
 Albania,6.583,4.196,5.026,4.590
 Algeria,65.677,98.197,159.929,173.000
