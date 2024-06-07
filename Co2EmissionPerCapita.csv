@@ -1,7 +1,7 @@
 Country,1990,2005,2017,2021
 World,22674.120,30049.810,37077.400,37857.580
-World – International Aviation,258.941,422.777,543.381,0
-World – International Shipping,371.804,572.169,677.248,0
+World – International Aviation,258.941,422.777,543.381
+World – International Shipping,371.804,572.169,677.248
 Afghanistan,2.546,1.063,11.422,8.350
 Albania,6.583,4.196,5.026,4.590
 Algeria,65.677,98.197,159.929,173.000
@@ -159,7 +159,7 @@ Réunion,1.010,2.367,2.916,2.580
 Romania,187.142,104.713,81.131,78.750
 Russia,2378.920,1733.950,1764.870,1942.540
 Rwanda,0.525,0.748,1.106,1.240
-"Saint Helena, Ascension and Tristan da Cunha",0.010,0.010,0.015,0.020
+Saint Helena, Ascension and Tristan da Cunha,0.010,0.010,0.015,0.020
 Saint Kitts and Nevis,0.034,0.063,0.238,0.290
 Saint Lucia,0.076,0.158,0.364,0.710
 Saint Pierre and Miquelon,0.148,0.031,0.075,0.090
